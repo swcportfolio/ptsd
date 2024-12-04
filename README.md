@@ -1,19 +1,16 @@
-# vempire_app
+# 교통사고 PTSD 자기진단 챗봇앱 
 
-마이그레이션 한 차근차근 앱
+교통사고 후 PTSD 조기 진단 및 치료 지원을 위한 챗봇 및 동영상 치료 기능 제공 앱 개발
 
-## Getting Started
+## 주요 화면
+- PTSD 검사 화면: 교통사고 후 사용자의 정신적 상태를 조기에 평가하기 위한 ptsd 자가진단 설문 제공
+- IESRK 검사 화면: IES-R-K 검사를 통해 사고 이후 경험한 심리적 스트레스 수준을 평가하는 화면 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 사용된 기술 스택
+- 언어: Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 버전
+- Flutter: 3.13.5
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
-- flutter: 3.13.5
-- dart: 3.1.2
